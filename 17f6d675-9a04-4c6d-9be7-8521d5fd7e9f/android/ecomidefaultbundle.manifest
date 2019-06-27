@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2417018605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f337f568c736553eaaad4b6675ca0c44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c9f0c774f7d1903bd1e8c798f367eb3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Characters/EcomiDefault/17f6d675-9a04-4c6d-9be7-8521d5fd7e9f.prefab
+Dependencies: []

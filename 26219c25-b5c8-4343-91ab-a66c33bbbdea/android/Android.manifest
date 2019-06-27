@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4125275385
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ecomidefaultbundle
+      Dependencies: {}
