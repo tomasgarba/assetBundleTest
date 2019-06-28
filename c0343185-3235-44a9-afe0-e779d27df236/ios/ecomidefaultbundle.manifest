@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 592634036
+CRC: 1717550017
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fd2af5cd17d9233cdd3516a170fa3e27
+    Hash: 24c4c5d809ab1328775e5e6697c7c82a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7c9f0c774f7d1903bd1e8c798f367eb3
@@ -28,5 +28,5 @@ ClassTypes:
 - Class: 65
   Script: {instanceID: 0}
 Assets:
-- Assets/EcomiDefault/f1295e71-7815-478f-8bab-802626d01dcb.prefab
+- Assets/EcomiDefault/c0343185-3235-44a9-afe0-e779d27df236.prefab
 Dependencies: []
