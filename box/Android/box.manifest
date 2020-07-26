@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1056965608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 702996e07ce8b4a868d5f5de73aefe76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3557ed12efac184c2416e3f7661fbd14
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/boxt_test.fbx
+Dependencies: []
